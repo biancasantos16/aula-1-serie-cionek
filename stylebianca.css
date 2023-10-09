@@ -1,5 +1,5 @@
 body {
-    background: #da97d4
+    background: #9b9191
 }
 h1 {
     text-align: center;
@@ -8,5 +8,8 @@ p {
     text-align: center;
 }
 em strong {
-    color: darkolivegreen;
+    color: rgb(211, 57, 231);
+}
+#missao{
+     font-size: 20px;
 }
